@@ -6,7 +6,7 @@
   [![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
   
   <p align="center">
     <a href="#features">Features</a> •
