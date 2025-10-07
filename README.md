@@ -31,3 +31,6 @@ This project simulates a real-world freelance hiring platform like Upwork or Fiv
 <img width="1885" height="865" alt="image" src="https://github.com/user-attachments/assets/d55d2938-8def-45aa-86bd-44677d42279b" />
 
 <img width="1578" height="862" alt="image" src="https://github.com/user-attachments/assets/15d2658d-d337-41ca-bfa2-5e19eda4a2dc" />
+
+<img width="1418" height="853" alt="image" src="https://github.com/user-attachments/assets/f458333d-d2c7-4b22-8f9d-6d7115d84bdf" />
+
