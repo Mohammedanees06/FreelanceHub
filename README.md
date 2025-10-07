@@ -113,28 +113,28 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 
 <div align="center">
 
-### 🏠 Landing Page
+### 🏠 Login Page
 <img src="https://github.com/user-attachments/assets/77372dfb-07c9-4d0a-a747-f7d35447dc59" alt="Landing Page" width="90%" />
 
-### 💼 Job Listings
+### 💼 Register Page
 <img src="https://github.com/user-attachments/assets/dec69479-ff7b-4490-bf0b-bf414fdd159c" alt="Job Listings" width="90%" />
+
+### 📋 Home Page
+<img src="https://github.com/user-attachments/assets/263f0608-24a2-4bff-bb62-cf26cff9a750" alt="Job Application" width="90%" />
 
 ### 📊 Freelancer Dashboard
 <img src="https://github.com/user-attachments/assets/7d72ed17-d625-4886-a578-153b39a72312" alt="Freelancer Dashboard" width="90%" />
 
-### 📋 Job Details & Application
-<img src="https://github.com/user-attachments/assets/263f0608-24a2-4bff-bb62-cf26cff9a750" alt="Job Application" width="90%" />
-
 ### 👤 User Profile
 <img src="https://github.com/user-attachments/assets/fb082098-4a55-45da-8723-80fd889ff593" alt="User Profile" width="90%" />
 
-### 💬 Real-Time Messaging
+### 📊 Admin Dashboard
 <img src="https://github.com/user-attachments/assets/d55d2938-8def-45aa-86bd-44677d42279b" alt="Messaging System" width="90%" />
 
-### 📑 Application Management
+### 📑 Add Job
 <img src="https://github.com/user-attachments/assets/15d2658d-d337-41ca-bfa2-5e19eda4a2dc" alt="Application Management" width="90%" />
 
-### 🔐 Authentication
+### 📑 Application Management
 <img src="https://github.com/user-attachments/assets/f458333d-d2c7-4b22-8f9d-6d7115d84bdf" alt="Login Page" width="90%" />
 
 </div>
