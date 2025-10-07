@@ -3,7 +3,7 @@ Project Description
 FreelanceHub is a full-stack MERN marketplace where clients can post jobs and freelancers can apply.
 It includes:
 
-🔐 Authentication & Authorization (JWT with role-based access for Client  ,Freelancer and Admin)
+🔐 Authentication & Authorization (JWT with role-based access for Client ,Freelancer and Admin)
 
 📋 Job Management (Clients create, update, delete jobs)
 
