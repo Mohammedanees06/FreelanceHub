@@ -141,7 +141,8 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 <img width="1871" height="874" alt="image" src="https://github.com/user-attachments/assets/b3503c91-fdef-414a-932e-7f5d9488371e" />
 
 ### 💬 **Real-Time Messaging**
-<img width="1715" height="865" alt="image" src="https://github.com/user-attachments/assets/1b9faa63-96bd-4b23-bb08-1fe83db29395" />
+<img width="1625" height="865" alt="image" src="https://github.com/user-attachments/assets/41bec902-3b44-4027-8d28-e1d2c40c8437" />
+
 
 
 </div>
