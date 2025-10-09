@@ -137,4 +137,8 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 ### 📑 Application Management
 <img src="https://github.com/user-attachments/assets/f458333d-d2c7-4b22-8f9d-6d7115d84bdf" alt="Login Page" width="90%" />
 
+### 📑 Jobs Applied
+<img width="1871" height="874" alt="image" src="https://github.com/user-attachments/assets/b3503c91-fdef-414a-932e-7f5d9488371e" />
+
+
 </div>
