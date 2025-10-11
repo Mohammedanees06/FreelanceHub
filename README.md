@@ -141,9 +141,15 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 ### 💬 **Real-Time Messaging**
 <img width="1625" height="865" alt="image" src="https://github.com/user-attachments/assets/41bec902-3b44-4027-8d28-e1d2c40c8437" />
 
+Here's the improved and formatted installation section:
+
+```markdown
 ## 🚀 Installation & Setup
 
 ### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
 - **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
 - **MongoDB** (v6.0 or higher) - [Download here](https://www.mongodb.com/try/download/community)
 - **Git** - [Download here](https://git-scm.com/)
@@ -152,18 +158,29 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 
 ### 📦 Quick Start
 
-#### 1. Clone the Repository
+#### 1️⃣ **Clone the Repository**
 
+```bash
+# Clone the repository
 git clone https://github.com/yourusername/freelancehub.git
-cd freelancehub
 
+# Navigate to project directory
+cd freelancehub
+```
+
+#### 2️⃣ **Backend Setup**
+
+```bash
 # Navigate to server directory
 cd server
 
 # Install dependencies
 npm install
+```
 
-Create .env file in server directory:
+**Create `.env` file in server directory:**
+
+```env
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/db_name
 JWT_SECRET=your_jwt_secret_key_here
@@ -171,42 +188,121 @@ CLIENT_URL=http://localhost:3000
 CLOUDINARY_CLOUD_NAME=Cloud_name_from_Cloudinary
 CLOUDINARY_API_KEY=Cloud_API_Key_from_Cloudinary
 CLOUDINARY_API_SECRET=Cloud_API_Secret_Key_from_Cloudinary
+```
 
-Start the backend server:
+**Start MongoDB:**
+```bash
+# Make sure MongoDB is running
+mongod
+```
+
+**Start the backend server:**
+```bash
 node server.js
+```
 
-Frontend Setup
-Open a new terminal and run:
+✅ Backend will run on `http://localhost:5000`
+
+#### 3️⃣ **Frontend Setup**
+
+**Open a new terminal and run:**
+
+```bash
 # Navigate to client directory
 cd client
 
 # Install dependencies
 npm install
-Create .env file in client directory:
-envREACT_APP_API_URL=http://localhost:5000/api
+```
+
+**Create `.env` file in client directory:**
+
+```env
+REACT_APP_API_URL=http://localhost:5000/api
 REACT_APP_SOCKET_URL=http://localhost:5000
 VITE_GOOGLE_CLIENT_ID=your_google_client_id
+```
 
- Getting API Keys
-Cloudinary (Required for file uploads)
-
-Sign up at Cloudinary
-Go to Dashboard → Copy your credentials:
-
-Cloud Name
-API Key
-API Secret
-
-
-Google OAuth 
-
-Go to Google Cloud Console
-Create a new project → Enable Google+ API
-Create OAuth 2.0 credentials
-Add authorized redirect URI: http://localhost:5173
-Copy Client ID
-
-Start the frontend server:
+**Start the frontend server:**
+```bash
 npm run dev
+```
+
+✅ Frontend will run on `http://localhost:5173`
+
+---
+
+### 🔑 Getting API Keys
+
+<details>
+<summary><b>📸 Cloudinary Setup</b> (Required for file uploads)</summary>
+
+1. Sign up at [Cloudinary](https://cloudinary.com/)
+2. Go to **Dashboard** → Copy your credentials:
+   - Cloud Name
+   - API Key
+   - API Secret
+3. Add these to your backend `.env` file
+
+</details>
+
+<details>
+<summary><b>🔐 Google OAuth Setup</b> (Optional for social login)</summary>
+
+1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a new project → Enable Google+ API
+3. Create OAuth 2.0 credentials
+4. Add authorized redirect URI: `http://localhost:5173`
+5. Copy Client ID and add to frontend `.env` file
+
+</details>
+
+---
+
+### ✅ Verify Installation
+
+| Step | Check | URL |
+|------|-------|-----|
+| 1 | MongoDB is running | Check terminal for connection, Add cluster in .env file |
+| 2 | Backend is running | http://localhost:5000/api/health |
+| 3 | Frontend is running | http://localhost:5173 |
+
+---
+
+
+
+### 🎯 Quick Commands Reference
+
+```bash
+# Start everything at once (from root directory)
+# Terminal 1 - Backend
+cd server && npm start
+
+# Terminal 2 - Frontend  
+cd client && npm run dev
+
+# Terminal 3 - MongoDB
+mongod
+```
+
+---
+
+### 📝 Default Test Accounts
+
+After setup, you can register new accounts or use these for testing:
+
+| Role | Email | Password |
+|------|-------|----------|
+| **Client** | client@test.com | Test@123 |
+| **Freelancer** | freelancer@test.com | Test@123 |
+| **Admin** | admin@test.com | Admin@123 |
+
+---
+
+<div align="center">
+  
+**🎉 Setup Complete! Your application should now be running.**
+
+Frontend: http://localhost:5173 | Backend: http://localhost:5000
 
 </div>
