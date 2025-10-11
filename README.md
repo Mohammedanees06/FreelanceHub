@@ -9,11 +9,11 @@
 
   
   <p align="center">
-    <a href="#features">Features</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#screenshots">Screenshots</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#api-endpoints">API</a>
+    <a >Features</a> •
+    <a>Tech Stack</a> •
+    <a>Screenshots</a> •
+    <a>Installation</a> •
+    <a>API</a>
   </p>
 </div>
 
