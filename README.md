@@ -8,7 +8,7 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![Socket.io](https://img.shields.io/badge/Socket.io-4.5-010101?logo=socket.io&logoColor=white)](https://socket.io/)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
   <p align="center">
     <a href="#-overview">Overview</a> •
