@@ -1,6 +1,6 @@
-Here's the complete, improved README with better formatting:
 
-```markdown
+
+
 <div align="center">
   <h1>🚀 FreelanceHub</h1>
   <p><strong>A Modern Full-Stack Freelance Marketplace Built with MERN Stack</strong></p>
