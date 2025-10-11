@@ -88,7 +88,7 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 - **Socket.io-client** - Real-time communication
 - **Axios** - HTTP client
 - **React Hook Form** - Form validation
-- **React Toastify** - Notifications
+
 
 ### **Backend**
 - **Node.js** - Runtime environment
@@ -101,9 +101,7 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 - **Multer** - File upload handling
 - **Nodemailer** - Email service
 
-### **DevOps & Tools**
-- **Docker** - Containerization
-- **ESLint** - Code linting
+### **Tools**
 - **Prettier** - Code formatting
 - **Git** - Version control
 - **Postman** - API testing
