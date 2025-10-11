@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
   <h1>🚀 FreelanceHub</h1>
   <p><strong>A Modern Full-Stack Freelance Marketplace Built with MERN Stack</strong></p>
@@ -502,6 +500,7 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedaneesdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedanees0606@gmail.com)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-Live-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammedanees.netlify.app/)
 
 </div>
 
@@ -511,5 +510,5 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
   <b>🚀 Happy Freelancing!</b><br>
   Made with ❤️ by Mohammed Anees
 </div>
-```
+
 
