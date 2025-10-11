@@ -9,11 +9,11 @@
 
   
   <p align="center">
-    <a >Features</a> •
-    <a>Tech Stack</a> •
-    <a>Screenshots</a> •
-    <a>Installation</a> •
-    <a>API</a>
+    <a href="#features">Features</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#screenshots">Screenshots</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#api-endpoints">API</a>
   </p>
 </div>
 
@@ -141,6 +141,72 @@ FreelanceHub is a comprehensive freelance marketplace platform that connects cli
 ### 💬 **Real-Time Messaging**
 <img width="1625" height="865" alt="image" src="https://github.com/user-attachments/assets/41bec902-3b44-4027-8d28-e1d2c40c8437" />
 
+## 🚀 Installation & Setup
 
+### Prerequisites
+- **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
+- **MongoDB** (v6.0 or higher) - [Download here](https://www.mongodb.com/try/download/community)
+- **Git** - [Download here](https://git-scm.com/)
+
+---
+
+### 📦 Quick Start
+
+#### 1. Clone the Repository
+
+git clone https://github.com/yourusername/freelancehub.git
+cd freelancehub
+
+# Navigate to server directory
+cd server
+
+# Install dependencies
+npm install
+
+Create .env file in server directory:
+PORT=5000
+MONGO_URI=mongodb://127.0.0.1:27017/db_name
+JWT_SECRET=your_jwt_secret_key_here
+CLIENT_URL=http://localhost:3000
+CLOUDINARY_CLOUD_NAME=Cloud_name_from_Cloudinary
+CLOUDINARY_API_KEY=Cloud_API_Key_from_Cloudinary
+CLOUDINARY_API_SECRET=Cloud_API_Secret_Key_from_Cloudinary
+
+Start the backend server:
+node server.js
+
+Frontend Setup
+Open a new terminal and run:
+# Navigate to client directory
+cd client
+
+# Install dependencies
+npm install
+Create .env file in client directory:
+envREACT_APP_API_URL=http://localhost:5000/api
+REACT_APP_SOCKET_URL=http://localhost:5000
+VITE_GOOGLE_CLIENT_ID=your_google_client_id
+
+ Getting API Keys
+Cloudinary (Required for file uploads)
+
+Sign up at Cloudinary
+Go to Dashboard → Copy your credentials:
+
+Cloud Name
+API Key
+API Secret
+
+
+Google OAuth 
+
+Go to Google Cloud Console
+Create a new project → Enable Google+ API
+Create OAuth 2.0 credentials
+Add authorized redirect URI: http://localhost:5173
+Copy Client ID
+
+Start the frontend server:
+npm run dev
 
 </div>
