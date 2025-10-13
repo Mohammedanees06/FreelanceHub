@@ -509,7 +509,7 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 ---
 
 <div align="center">
-  <b>🚀 Happy Freelancing!</b><br>
+  <br>
   Made with ❤️ by Mohammed Anees
 </div>
 
