@@ -498,7 +498,7 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 <div align="center">
 
-**Project Link:** [https://github.com/yourusername/freelancehub](https://github.com/yourusername/freelancehub)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedaneesdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedanees0606@gmail.com)
