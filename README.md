@@ -490,7 +490,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 💖 Support
 
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
+If you find this project helpful, please consider giving it a ⭐ on GitHub and follow me on github and linkedin.
 
 ---
 
